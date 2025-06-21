@@ -1,4 +1,5 @@
 # 📊 Decision Tree Classifier on Bank Marketing Dataset
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/8mBg2weVxUkiyFuEBc/giphy.gif"/>
 
 ## 📁 Introduction
 
